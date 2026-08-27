@@ -6,7 +6,7 @@
 [![Hackathon](https://img.shields.io/badge/Smart%20City%20Hackathon-2026-1f6f8b)](https://smartcityhackathon.devpost.com)
 
 📊 **View the pitch deck:** [AI-Powered-Groundwater-Planner.pdf](./AI-Powered-Groundwater-Planner.pdf)
-🚀 **Live demo:** _add your Streamlit app link here once deployed_
+🚀 **Live demo:** _[add your Streamlit app link here once deployed](https://hj7jncivzeudjokhaiyph5.streamlit.app/)_
 
 ---
 
