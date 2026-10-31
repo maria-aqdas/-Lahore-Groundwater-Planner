@@ -5,7 +5,7 @@
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
 [![Hackathon](https://img.shields.io/badge/Smart%20City%20Hackathon-2026-1f6f8b)](https://smartcityhackathon.devpost.com)
 
-📊 **View the pitch deck:** [AI-Powered-Groundwater-Planner.pdf](./AI-Powered-Groundwater-Planner.pdf)
+📊 **View the pitch deck:** [AI-Powered-Groundwater-Planner.pdf](./AI-Powered-Groundwater-Planner.pdf)   
 🚀 **Live demo:** _[ Streamlit app link here ](https://hj7jncivzeudjokhaiyph5.streamlit.app/)_
                   
 ---
